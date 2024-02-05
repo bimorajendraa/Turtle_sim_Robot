@@ -1,0 +1,8 @@
+prefix=/home/bimo/code/kurakura/install
+
+Name: iris
+Description: Description of iris
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

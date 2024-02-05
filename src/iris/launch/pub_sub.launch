@@ -1,0 +1,4 @@
+<launch>
+    <node name="talk" pkg="iris" type="talker_node" output="screen"/>
+    <node name="listen" pkg="iris" type="listener_node" output="screen"/>
+</launch>

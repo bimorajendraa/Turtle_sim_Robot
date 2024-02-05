@@ -1,0 +1,2 @@
+iris
+-DCATKIN_DEVEL_PREFIX=/home/bimo/code/kurakura/devel -DCMAKE_INSTALL_PREFIX=/home/bimo/code/kurakura/install -G Unix Makefiles
